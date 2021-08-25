@@ -1,0 +1,8 @@
+com/github/bluuto/MainBootstrap.java
+ com.github.bluuto.MainBootstrap
+com/github/bluuto/Splitter.java
+ com.github.bluuto.Splitter
+com/github/bluuto/Main.java
+ com.github.bluuto.Main
+com/github/bluuto/Translate.java
+ com.github.bluuto.Translate
